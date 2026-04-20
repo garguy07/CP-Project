@@ -1,0 +1,3 @@
+The following link contains the SARC dataset, NRC Emotion Lexicon dataset and glove.840B.300d embeddings.
+
+https://drive.google.com/drive/folders/1VyvHBVt4Fln534Jv4H528hjoFb9RFFlO?usp=sharing
